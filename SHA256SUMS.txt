@@ -1,0 +1,4 @@
+9bf136609447dabbb583950758efd42fc2c52b657cafb1fe163f533e8157ee12  dist/Pale-Blue-Browser-Icon.icns
+e1e8800c4d6ff00ad06c3dfd73c2831184d9c6f05efcaa67ea5ee2693f47bd3b  source/Pale-Blue-Browser-Icon-1024.png
+e1e8800c4d6ff00ad06c3dfd73c2831184d9c6f05efcaa67ea5ee2693f47bd3b  assets/icon-preview-transparent.png
+869f1bba4172c6ad853118983649095b97869215fc8e044f3346d859a79f45a5  assets/icon-preview-on-gray.png
